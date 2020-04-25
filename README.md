@@ -1,7 +1,6 @@
 # graphcoloring
-Graph coloring
 
-
+Graph coloring problem's solution using backtracking algorithm
 
 
 ### Install the dependencies 
