@@ -10,5 +10,5 @@ $ pip install -r requirements.txt
 ```
 ### Run
 ```
-$ $  python3 graphcoloring.py testmap.jpg
+:point_right: $   python3 graphcoloring.py testmap.jpg
 ```
